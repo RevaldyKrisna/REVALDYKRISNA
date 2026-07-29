@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=B1D3B9&center=true&vCenter=true&width=900&height=100&lines=Hey%2C+I'm+Revaldy+Krisna+Putra+👋;Full+Stack+Developer+💻;Building+Useful+Web+Applications+🚀;Always+Learning+Something+New+🌱" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&height=100&lines=Hey%2C+I'm+Revaldy+Krisna+Putra+👋;Full+Stack+Developer+💻;Building+Useful+Web+Applications+🚀;Always+Learning+Something+New+🌱" alt="Typing SVG" />
 
 </div>
 
@@ -96,15 +96,19 @@ Currently, I focus on building scalable web applications using PHP ecosystems wh
 
 ---
 
-# 📫 Connect With Me
-
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/revaldykrisnaa)
+<a href="https://instagram.com/revaldykrisnaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/revaldykrisna)
+<a href="https://linkedin.com/in/revaldykrisna">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:revaldy.krisna@gmail.com)
+<a href="mailto:revaldy.krisna@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
